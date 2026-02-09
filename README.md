@@ -104,6 +104,6 @@ The system operates through a well-defined state machine:
 
 A video demonstration showcasing the system's functionality is available on YouTube, with timestamps included:
 
-[![Color Sorting System - Video Demo](https://img.youtube.com/vi/lHli9-S-SxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=lHli9-S-SxQ)
+[![Color Sorting System - Video Demo](ColorSortingSystem/assets/system_operational_view.jpeg)](https://www.youtube.com/watch?v=lHli9-S-SxQ)
 
 </details>
